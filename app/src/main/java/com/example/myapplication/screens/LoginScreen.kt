@@ -21,7 +21,7 @@ fun LoginScreen(userType: String, onRegisterClick: (String) -> Unit = {}, onSche
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Text(
-            text = "Barber Time",
+            text = "Beauty Barber",
             fontSize = 32.sp,
             textAlign = TextAlign.Center,
             modifier = Modifier.padding(bottom = 32.dp)
